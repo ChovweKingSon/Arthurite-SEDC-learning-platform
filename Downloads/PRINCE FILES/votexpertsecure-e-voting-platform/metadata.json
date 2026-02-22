@@ -1,7 +1,0 @@
-{
-  "name": "VoteXpertSecure E-Voting Platform",
-  "description": "An e-voting application for corporate organizations, institutions, and societies, featuring multi-factor authentication including face verification.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
